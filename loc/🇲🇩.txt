@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@ro2.aiage.work:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ro2.aiage.work&fp=firefox&security=reality&pbk=pkKL2cqqPNxc1rqrvhJmexI7NOeZFaGUawAwqQpVY3c&sid=1d2fecf1d2475168#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://6338c01a-310e-42c3-bf4f-2a20e161054b@ro2.aiage.work:443?flow=xtls-rprx-vision&fp=chrome&host=ro2.aiage.work&path=%2F&pbk=pkKL2cqqPNxc1rqrvhJmexI7NOeZFaGUawAwqQpVY3c&security=reality&sid=1d2fecf1d2475168&sni=ro2.aiage.work&type=tcp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@md1.aiage.work:443?security=reality&encryption=none&pbk=0dtXhkhkh-_MBFoGwzdW4PdlJtVX9oswhJZHbUPGCmo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=md1.aiage.work&sid=5d7a45ac0ad6adff#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@ro2.aiage.work:443?flow=xtls-rprx-vision&fp=chrome&host=ro2.aiage.work&path=%2F&pbk=pkKL2cqqPNxc1rqrvhJmexI7NOeZFaGUawAwqQpVY3c&security=reality&sid=1d2fecf1d2475168&sni=ro2.aiage.work&type=tcp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
