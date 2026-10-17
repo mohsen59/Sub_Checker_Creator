@@ -2,10 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJhZGQiOiIxNzIuNjcuMTk1LjE0NiIsImlkIjoiZjVmMGJhYmUtYWVhMi00ZjA3LWExZmMtM2M5ODIwMjUzZjQ5IiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6ImF1cy5sb3ZlaGsueHl6IiwicGF0aCI6Ii9TeWRuZXkzIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsImZwIjoiIiwic25pIjoiYXVzLmxvdmVoay54eXoiLCJwcyI6ImhhbWVkcDcxOjrwn4em8J+HuiJ9
+vmess://eyJhZGQiOiIxNzIuNjcuMTk1LjE0NiIsImFpZCI6MCwiaG9zdCI6ImF1cy5sb3ZlaGsueHl6IiwiaWQiOiJmNWYwYmFiZS1hZWEyLTRmMDctYTFmYy0zYzk4MjAyNTNmNDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvU3lkbmV5MyIsInBvcnQiOiI0NDMiLCJwcyI6ImhhbWVkcDcxOjrwn4em8J+HuiIsInNuaSI6ImF1cy5sb3ZlaGsueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=qq&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?fp=firefox&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E&security=reality&sid=4cc9dc65f7770115&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
