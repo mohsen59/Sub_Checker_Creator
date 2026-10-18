@@ -2,7 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?&sni=5.178.109.174&type=ws&headerType=none&host=5.178.109.174&path=/vless#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=tcpswed1.figurapn.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?path=/vless&security=&encryption=none&host=5.178.109.174&type=ws&sni=5.178.109.174#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?sni=5.178.109.174&type=ws&host=5.178.109.174&path=/vless#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=qq&security=reality&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&sid=10f517#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?security=reality&encryption=none&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&headerType=none&fp=chrome&spx=/5xmOzu3pGosH91u&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=10f517#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.219:443?fp=safari&security=tls&serviceName=swedenfeed&sni=edge-lab-b.10media.top&type=grpc#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?path=/vless&security=&encryption=none&host=5.178.109.174&type=ws&sni=5.178.109.174#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
