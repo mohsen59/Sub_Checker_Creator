@@ -2,5 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=android#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=firefox#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=ios#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=qq#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=safari#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?sni=lv1.dedushka.top&peer=lv1.dedushka.top&security=tls#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://1ebcb694-875c-4be7-b6a2-d53c8208991b@195.123.208.32:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ICrsmE5hqN7IsDIyHPG2WkDUUFK_VEj9yobLv8zuDwk&sid=757b9e1ef18e60f0&sni=gateway.icloud.com#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
