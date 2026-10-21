@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwibmV0IjoidGNwIiwicGF0aCI6Ii92bC94UWhOZTdyTHJkTTBlbVpsYVc1TE1zTndjb0lnblQiLCJwb3J0IjoiMzUwMzQiLCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HvCIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vless://19d5a678-8396-4e3b-93da-ece618d0e83a@61.230.160.34:24215?encryption=none&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
