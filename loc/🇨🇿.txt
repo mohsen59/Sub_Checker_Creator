@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@67.159.18.34:17001#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&sid=23d0950d60bc0d5b&sni=gateway.icloud.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
