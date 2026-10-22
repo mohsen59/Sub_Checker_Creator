@@ -2,9 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@31.59.168.247:443?security=reality&type=tcp&sni=web.gderevievsvideos.fyi&fp=firefox&flow=xtls-rprx-vision&sid=7271129440ade8fa&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://1ebcb694-875c-4be7-b6a2-d53c8208991b@195.123.208.32:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ICrsmE5hqN7IsDIyHPG2WkDUUFK_VEj9yobLv8zuDwk&sid=757b9e1ef18e60f0&sni=gateway.icloud.com#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB

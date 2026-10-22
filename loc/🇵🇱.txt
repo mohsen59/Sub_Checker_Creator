@@ -2,27 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=pl1.dedushka.top#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?allowInsecure=1&sni=pl2.dedushka.top#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.137:443?path=/f2fc2a1f&security=tls&insecure=0&host=2.hi-l.im&type=ws&allowInsecure=0&sni=2.HI-L.IM#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.182:443?sni=pl1.dedushka.top&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&fp=chrome&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?sni=pl2.dedushka.top&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?sni=pl2.dedushka.top&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.top&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?sni=pl2.dedushka.top&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.top&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?sni=pl2.dedushka.top&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.top&type=tcp&alpn=http%2F1.1&fp=firefox#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJwYXRoIjoiL3J0aGl1Z295cmV0ZHN1aWdnP2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4exIn0
 vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxOjrwn4e18J+HsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0
-vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZz9lZD0yNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4exIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
-vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl.flen-vpn.xyz#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@144.31.0.140:443?sid=7271129440ade8fa&encryption=none&type=tcp&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&flow=xtls-rprx-vision&fp=firefox&headerType=none&sni=api.sakhalin.fyi&security=reality#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?host=site.teslamotor.site&path=%2F&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

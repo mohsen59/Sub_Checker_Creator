@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU=@176.32.34.253:18443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.44.216:18443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://3acb386b-fdd7-4bc9-911f-159fdcd834ce@9f6635t.msk1.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=9f6635t.msk1.h1clayd.click&pbk=aovrqfVIxA_POvJorIg05wBQJM9nZ859c0fsNL7v9RM&sid=0ea5f9d7955c3971&fp=firefox&spx=/#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
